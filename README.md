@@ -1,15 +1,14 @@
 **HELLO!**
 
-My name is Paulo Júnio Braga, but you can call me **PJ**. I am currently a student at a Driven Education full stack development bootcamp.
+My name is Paulo Júnio Braga, but you can call me by my nickname **PJ**. I am currently a student at a Driven Education full stack development bootcamp.
 
 I have learned some programming languages like **HTML**, **CSS**, **JavaScript** and **React**. I would like to learn everything possible and use these
 knowledge to help people solve problems.
 
-### Some facts about me:
+### Curiosity about me:
 
 - I worked with research on effluents and environmental chemistry when I was studying environmental and sanitary engineering.
 - I love learning new things. So my friends say I'm addicted to taking courses.
-- I adopted a cat: Morgana
 
 ### Languages:
 
