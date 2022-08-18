@@ -10,6 +10,10 @@ knowledge to help people solve problems.
 - I worked with research on effluents and environmental chemistry when I was studying environmental and sanitary engineering.
 - I love learning new things. So my friends say I'm addicted to taking courses.
 
+### Analytics:
+
+<img align="left" alt="Paulo_Junio" width="560em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Junio&show_icons=true&theme=dracula" />
+
 ### Languages:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
