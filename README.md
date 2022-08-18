@@ -1,27 +1,48 @@
-**HELLO!**
+<h4>HELLO, GUYS! 🏳‍🌈</h4>
 
-My name is Paulo Júnio Braga, but you can call me by my nickname **PJ**. I am currently a student at a Driven Education full stack development bootcamp.
+<p>My name is Paulo Júnio Braga, but you can call me by my nickname <b>PJ</b>. I am currently a student at a Driven Education full stack development bootcamp.</p>
 
-I have learned some programming languages like **HTML**, **CSS**, **JavaScript** and **React**. I would like to learn everything possible and use these
-knowledge to help people solve problems.
+<p>I have learned some programming languages like <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> and <b>React</b>. I would like to learn everything possible and use these
+knowledge to help people solve problems.</p>
 
-### Curiosity about me:
+<br><br>
 
-- I worked with research on effluents and environmental chemistry when I was studying environmental and sanitary engineering.
-- I love learning new things. So my friends say I'm addicted to taking courses.
+##  😜 &nbsp;Curiosity about me:
 
-### Analytics:
+<p align="left">
 
-<img align="left" alt="Paulo_Junio" width="560em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Junio&show_icons=true&theme=dracula" />
+<p>- I worked with research on effluents and environmental chemistry when I was studying environmental and sanitary engineering.<p>
+<p>- I love learning new things. So my friends say I'm addicted to taking courses.</p>
 
-### Languages:
+<br><br>
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /><br>
+## ⚙ &nbsp;Analytics:
 
-### You can also find me on:
+<p align="left">
+  
+<img width="510em" src="https://github-readme-stats.vercel.app/api?username=Paulo-Junio&show_icons=true&theme=dracula" alt="Paulo_Junio" >
+ 
+<img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Junio&layout=compact" alt="Paulo_Junio" >
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/paulo-braga-0b0254163//)](https://www.linkedin.com/in/paulo-braga-0b0254163/)
+<br><br>
+
+## 🧐 &nbsp;Languages:
+
+<p align="left">
+
+<img width="80em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" >
+  
+<img width="80em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" >
+  
+<img width="80em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" >
+  
+<img width="80em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" >
+</p>
+
+<br><br>
+
+## 🧭 &nbsp;You can also find me on:
+
+<p align="left">
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/paulo-braga-0b0254163//)](https://www.linkedin.com/in/paulo-braga-0b0254163/)
