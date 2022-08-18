@@ -1,6 +1,6 @@
 <h4>HELLO, GUYS! 🏳‍🌈</h4>
 
-<p>My name is Paulo Júnio Braga, but you can call me by my nickname <b>PJ</b>. I am currently a student at a Driven Education full stack development bootcamp.</p>
+<p>My name is Paulo Júnio Fernandes Braga, but you can call me by my nickname <b>PJ</b>. I am currently a student at a Driven Education full stack development bootcamp.</p>
 
 <p>I have learned some programming languages like <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> and <b>React</b>. I would like to learn everything possible and use these
 knowledge to help people solve problems.</p>
